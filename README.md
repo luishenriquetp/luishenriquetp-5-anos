@@ -56,7 +56,7 @@ Desenvolvedor Full Stack com mais de 5 anos de experiência, especializado em Ja
 
 ## 👨‍💻 Experiência Profissional
 
-- **Desenvolvedor Full Stack** (5+ anos de experiência)
+- **Desenvolvedor Full Stack** (8+ anos de experiência)
 - Desenvolvimento de aplicações de alto desempenho e escalabilidade
 - Liderança técnica e mentoria de desenvolvedores
 - Arquitetura de microsserviços e implementação de APIs
