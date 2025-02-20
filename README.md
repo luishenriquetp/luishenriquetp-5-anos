@@ -4,7 +4,7 @@
 
 ## 💼 Perfil Profissional
 
-Desenvolvedor Full Stack com mais de 5 anos de experiência, especializado em JavaScript e Java. Apaixonado por arquitetura de software, escalabilidade e segurança de aplicações, com foco na construção de soluções robustas e eficientes. Busco aprimoramento contínuo por meio de certificações e estudos aprofundados em tecnologias modernas.
+Desenvolvedor Full Stack com mais de 8 anos de experiência, especializado em JavaScript e Java. Apaixonado por arquitetura de software, escalabilidade e segurança de aplicações, com foco na construção de soluções robustas e eficientes. Busco aprimoramento contínuo por meio de certificações e estudos aprofundados em tecnologias modernas.
 
 ## 🛠️ Tecnologias e Ferramentas
 
